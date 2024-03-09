@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/prasanna-nikam-222912187">
+  <a href="https://www.linkedin.com/in/prasanna-nikam-222912187/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -29,7 +29,7 @@
 - :zap: In my free time, I engage in hands-on projects, tackle challenges on platforms like Kaggle, and stay updated on the latest advancements in data science.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](prasannanikam1@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-Prasanna-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/prasanna-nikam-222912187)
+ [![Linkedin Badge](https://img.shields.io/badge/-Prasanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-nikam-222912187/)
 ---
 
 <h1>:hammer_and_wrench: Languages and Tools :</h1>
@@ -91,11 +91,24 @@
   </p>
 
  ---
+<h2>📊 Github Stats</h2>
 
-<h1> :fire: My Stats :</h1>
+<div>
+  <img width="50%"
+    src="https://github-readme-stats.vercel.app/api?username=prasannanikam&show_icons=true&hide_border=true&theme=radical" />
+  <img width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prasannanikam&hide_border=true&theme=radical" />
+</div>
+<hr />
+<h3 align="center">
+  Show some ❤️ by staring some of the repositories!
+</h3>
+<br>
+<h3 align="center">
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/prasannanikam/count.svg" />
+</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prasannanikam&theme=transparent&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
- 
  ---
 
 <h1> :fire: Most Languages Used :</h1>
