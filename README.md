@@ -2,8 +2,7 @@
     width="25px"> </h1>
 <br>
 
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Full-Stack+Web+Development+At+Leadwinner+Corp+Pvt+Ltd.;Open-Source+Developer;Nice+to+meet+you...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+seeking+opportunities+as+a+Data+Scientist+to+apply+my+expertise+in+machine+learning+and+contribute+to+impactful+projects.;Open-Source+Developer;Nice+to+meet+you...)
 <br>
 ## 👨🏻‍💻 About Me:
 
