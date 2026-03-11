@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[MyWebsite](https://prasannaresumeweb.netlify.app)**
+- 🙋‍♂️ All about me is at **[MyWebsite](https://mytlwebsite.netlify.app/)**
 
 - 🌱 I’m currently looking for oppotunity to become a Datascientist
 
