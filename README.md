@@ -1,114 +1,172 @@
-<h1 align="center">Hi there! I'm Prasanna Nikam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="25px"> </h1>
-<br>
+<h1 align="center">
+Hi 👋, I'm Prasanna Nikam
+</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+seeking+opportunities+as+a+Data+Scientist+to+apply+my+expertise+in+machine+learning+and+contribute+to+impactful+projects.;Open-Source+Developer;Nice+to+meet+you...)
-<br>
-## 👨🏻‍💻 About Me:
+<h3 align="center">
+Credit Risk Analytics | Data Science | Machine Learning Enthusiast
+</h3>
 
-<img src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px" align="right" />
-
-- 🙋‍♂️ All about me is at **[MyWebsite](https://mytlwebsite.netlify.app/)**
-
-- 🌱 I’m currently looking for oppotunity to become a Datascientist
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned
-
-- 💓 I love Exploring Data and coding.
-
-- 📫 How to reach me **prasannanikam1@gmail.com**
-
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=26&duration=4000&color=00A6FF&center=true&vCenter=true&width=900&lines=Credit+Risk+Analytics+Professional;Machine+Learning+Engineer+in+Progress;Python+%7C+SQL+%7C+Data+Science;Turning+Data+into+Business+Insights;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 ---
 
-<h1>:hammer_and_wrench: Languages and Tools :</h1>
- <h3 align="left">&#128187; Frontend:</h3>
-  <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" title="Bootstrap"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title="CSS3"/>
-    </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  </p>
+# 👨‍💻 About Me
 
-  <h3 align="left">&#128187; Backend:</h3>
-  <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" title="Django"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" title="Flask"/>
-    </a>
-  </p>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-  <h3 align="left">&#128187; Programming Languages:</h3>
-  <p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" title="C++"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python"/>
-    </a>
-  </p>
+- 💼 Working in **Credit Risk & Credit Bureau Operations**
 
-  <h3 align="left">&#128187; Database:</h3>
-  <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" title="MySQL"/>
-    </a>
-  </p>
+- 📊 Experience in **Loan Validation, DPD Monitoring & Dispute Resolution**
 
-  <h3 align="left">&#128187; Machine Learning:</h3>
-  <p align="left">
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" title="TensorFlow"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" title="scikit-learn"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" title="OpenCV"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" title="pandas"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" title="seaborn"/>
-    </a>
-  </p>
+- 🤖 Passionate about **Machine Learning & Predictive Analytics**
 
- ---
-<h2>📊 Github Stats</h2>
+- 📈 Interested in **Financial Data Analysis & Risk Modeling**
 
-<div>
-  <img width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=prasannanikam&show_icons=true&hide_border=true&theme=radical" />
-  <img width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prasannanikam&hide_border=true&theme=radical" />
-</div>
-<hr />
-<h3 align="center">
-  Show some ❤️ by staring some of the repositories!
-</h3>
-<br>
-<h3 align="center">
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/prasannanikam/count.svg" />
-</h3>
+- 🌱 Currently learning **Advanced ML, Deep Learning & AI**
 
- ---
+- 🧠 I enjoy solving **real-world problems using data**
 
-<h1> :fire: Most Languages Used :</h1>
+- 🌐 Portfolio Website  
+**https://mytlwebsite.netlify.app**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannanikam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- 📫 Reach me at  
+**prasannanikam1@gmail.com**
 
 ---
 
-### :writing_hand: Blog Posts :
+# 🚀 Tech Stack
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🤖 Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+
+---
+
+# 📂 Featured Projects
+
+### 🔹 Resume Classification System
+NLP model that classifies resumes automatically using machine learning.
+
+### 🔹 Voice Authenticated Storage System
+Secure storage system using **voice authentication and audio feature extraction**.
+
+### 🔹 Energy Production Prediction
+Machine learning model predicting **energy generation using historical data**.
+
+### 🔹 Plant Leaf Disease Detection
+Deep learning model detecting **plant diseases using CNN models**.
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasannanikam&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasannanikam&show_icons=true&theme=radical"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannanikam&theme=radical"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannanikam&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🔥 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannanikam&layout=compact&theme=vision-friendly-dark"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prasanna-nikam-222912187">
+<img src="https://img.shields.io/badge/LinkedIn-Prasanna%20Nikam-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:prasannanikam1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://profile-counter.glitch.me/prasannanikam/count.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
